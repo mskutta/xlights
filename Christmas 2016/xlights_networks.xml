@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="Skutta-Mac-mini">
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.47" BaudRate="1" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="2" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.47" BaudRate="3" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="4" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="5" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="6" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="7" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="8" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="9" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="10" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="11" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="12" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="13" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="14" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" ComPort="192.168.4.47" BaudRate="15" MaxChannels="150" Description=""/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.47" BaudRate="16" MaxChannels="240" Description=""/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.73" BaudRate="1" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="2" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="3" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="4" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.73" BaudRate="5" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="6" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="7" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.73" BaudRate="8" MaxChannels="297" Description="Candy Cane"/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.73" BaudRate="9" MaxChannels="297" Description="Candy Cane"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="1" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.72" BaudRate="2" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="3" MaxChannels="150" Description="Arch"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="4" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="5" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="6" MaxChannels="216" Description="Mini Tree"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="7" MaxChannels="297" Description="Candy Cane"/>
+  <network NetworkType="E131" ComPort="192.168.4.72" BaudRate="8" MaxChannels="297" Description="Candy Cane"/>
+  <network NetworkType="E131" ComPort="192.168.4.74" BaudRate="1" MaxChannels="300" Description="Roof"/>
+  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.4.74" BaudRate="2" MaxChannels="235" Description="Window + Roof"/>
+  <network NetworkType="E131" ComPort="192.168.4.74" BaudRate="3" MaxChannels="84" Description="Window"/>
+  <network NetworkType="E131" ComPort="192.168.4.74" BaudRate="4" MaxChannels="150" Description="Garage"/>
+  <network NetworkType="E131" ComPort="192.168.4.75" BaudRate="1" MaxChannels="450" Description="Palm"/>
+  <network NetworkType="E131" ComPort="192.168.4.76" BaudRate="1" MaxChannels="450" Description="Palm"/>
+  <network NetworkType="E131" ComPort="192.168.4.77" BaudRate="1" MaxChannels="450" Description="Palm"/>
+</Networks>
